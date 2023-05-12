@@ -7,3 +7,4 @@ Java Backend practice repository for Week 6 Day 5 assignment.
 3. Merge your branch into the main branch.
 
 Ethan: I like reading.
+Fiona: I like singing
