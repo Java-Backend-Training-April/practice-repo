@@ -11,3 +11,4 @@ Java Backend practice repository for Week 6 Day 5 assignment.
 - Fiona: I like singing
 - Zijia: I like movies.
 - Haolin: I like sleeping.
+- Huizhong: I like corgis.
