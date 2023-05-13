@@ -22,3 +22,4 @@ Java Backend practice repository for Week 6 Day 5 assignment.
 - Sylvia Cao: I'm gonna play Zelda 24/7 after Im done with project...
 - zihuiliu: I like sleeping
 - Hao Zhang: I like Java.
+- Jiarui Han: I like gaming
