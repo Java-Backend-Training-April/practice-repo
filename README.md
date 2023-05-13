@@ -23,3 +23,4 @@ Java Backend practice repository for Week 6 Day 5 assignment.
 - zihuiliu: I like sleeping
 - Hao Zhang: I like Java.
 - Jiarui Han: I like gaming
+- Chen Xu: I use arch btw
