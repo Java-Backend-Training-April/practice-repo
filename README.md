@@ -28,3 +28,4 @@ Java Backend practice repository for Week 6 Day 5 assignment.
 - Chen Xu: I use arch btw
 - Haotian Li: I love Java.
 - Yuyu Qian: I like Git.
+- Joshua Chin: I also like playing Dota 2!
